@@ -1,0 +1,24 @@
+Wireframing in Practice: Early Usability Wins
+Wireframing is key to fixing usability issues before development.
+
+E-commerce Checkout Redesign
+We reduced high cart abandonment by redesigning a checkout flow.
+
+Issues Found (via Wireframing & Testing):
+Redundant Data Entry: Users struggled with entering the same address twice.
+
+No Progress Indicator: Users felt lost in the multi-step process.
+
+Unclear Error Messages: Generic errors didn't help users fix input.
+
+Solutions & Impact:
+Streamlined Address: Added a "Billing address is same as shipping" checkbox, reducing effort.
+
+Added Progress: Implemented a clear progress bar, improving orientation.
+
+Improved Errors: Provided specific, actionable feedback, reducing frustration.
+
+Conclusion: The Power of Wireframing
+Wireframing helped us identify critical flaws early, allowed rapid fixes, 
+and led to a more user-friendly checkout, directly solving the abandonment issue. 
+It's the most cost-effective way to ensure a great user experience.
